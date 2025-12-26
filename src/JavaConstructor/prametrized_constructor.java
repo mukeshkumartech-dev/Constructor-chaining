@@ -17,7 +17,7 @@ public cons(String name, int age, long contact) {
 }
 public class prametrized_constructor {
 
-	public static void main(String[] args) {
+	public static void main(String[] arg) {
 		cons c1 =new cons("mukesh",20,9345536911l);
 c1.display();
 	}
